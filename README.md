@@ -45,7 +45,6 @@ update-database
   **1. Màn hình chính**
 
   <img src="https://raw.githubusercontent.com/pthanhphong1502/Image/main/Supermarket/Main1.PNG" />
-  <img src="https://raw.githubusercontent.com/pthanhphong1502/Image/main/Supermarket/Main3.PNG" />
   <img src="https://raw.githubusercontent.com/pthanhphong1502/Image/main/Supermarket/All_Product.PNG"/>
 
   **2. Đăng nhập. đăng ký**
